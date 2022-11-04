@@ -8,8 +8,8 @@ Fora realizado o deploy deste projeto no Heroku (já com o banco de dados relaci
 
 Outrossim, os endpoints utilizados, estão presentes no controller (https://github.com/SamuelGomesRocha/projeto-superar-backend/blob/main/src/main/java/br/com/maximatech/controller/ClienteController.java) e no frontend (https://github.com/SamuelGomesRocha/projeto-superar-fronend). No entanto, caso queira testar em alguma plataforma de testes de API, como Postman, os endpoints são os seguintes:
 
-* Cadastro: microservice-cliente.herokuapp.com/cliente/cadastra
-* Listagem: microservice-cliente.herokuapp.com/cliente/listar
-* Busca unitária: microservice-cliente.herokuapp.com/cliente/4
-* Deleção: microservice-cliente.herokuapp.com/cliente/cliente/del/4
-* Busca de cliente por latitude e longitude: microservice-cliente.herokuapp.com/cliente/-49.337506589270966/-16.64685974918195
+* Cadastro: https://microservice-cliente.herokuapp.com/cliente/cadastra
+* Listagem: https://microservice-cliente.herokuapp.com/cliente/listar
+* Busca unitária: https://microservice-cliente.herokuapp.com/cliente/4
+* Deleção: https://microservice-cliente.herokuapp.com/cliente/cliente/del/4
+* Busca de cliente por latitude e longitude: https://microservice-cliente.herokuapp.com/cliente/-49.337506589270966/-16.64685974918195
