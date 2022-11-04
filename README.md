@@ -13,6 +13,20 @@ Fora realizado o deploy deste projeto no Heroku (já com o banco de dados relaci
 Outrossim, os endpoints utilizados, estão presentes no controller (https://github.com/SamuelGomesRocha/projeto-superar-backend/blob/main/src/main/java/br/com/maximatech/controller/ClienteController.java) e no frontend (https://github.com/SamuelGomesRocha/projeto-superar-fronend). No entanto, caso queira testar em alguma plataforma de testes de API (como Postman):
 
 * Cadastro (POST): https://microservice-cliente.herokuapp.com/cliente/cadastra
+```
+  {
+    "nome":"MáximaTech",
+    "cnpj":"00.000.000/0000-00",
+    "cep": "74180-020",
+    "logradouro": "Rua 135",
+    "bairro": "Setor Marista",
+    "cidade": "Goiânia",
+    "uf": "GO", 
+    "latitude": -16.700191012195514, 
+    "longitude": -49.25344775767204
+}
+```
+
 * Listagem (GET): https://microservice-cliente.herokuapp.com/cliente/listar
 * Busca unitária (GET): https://microservice-cliente.herokuapp.com/cliente/4
 * Deleção (DELETE): https://microservice-cliente.herokuapp.com/cliente/cliente/del/4
