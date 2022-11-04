@@ -6,7 +6,7 @@ Fora realizado o deploy deste projeto no Heroku (já com o banco de dados relaci
 
 ## Links
 
-Outrossim, os endpoints utilizados, estão presentes no controller (https://github.com/SamuelGomesRocha/projeto-superar-backend/blob/main/src/main/java/br/com/maximatech/controller/ClienteController.java) e no frontend (https://github.com/SamuelGomesRocha/projeto-superar-fronend). No entanto, caso queira testar em alguma plataforma de testes de API, como Postman, os endpoints são os seguintes:
+Outrossim, os endpoints utilizados, estão presentes no controller (https://github.com/SamuelGomesRocha/projeto-superar-backend/blob/main/src/main/java/br/com/maximatech/controller/ClienteController.java) e no frontend (https://github.com/SamuelGomesRocha/projeto-superar-fronend). No entanto, caso queira testar em alguma plataforma de testes de API (como Postman):
 
 * Cadastro (POST): https://microservice-cliente.herokuapp.com/cliente/cadastra
 * Listagem (GET): https://microservice-cliente.herokuapp.com/cliente/listar
