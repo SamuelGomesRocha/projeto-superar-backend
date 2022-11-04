@@ -2,7 +2,7 @@
 
 ## Visão geral
 
-Esta aplicação se trata de uma API que, utilizando (Java v11.0.16)[https://www.oracle.com/br/java/technologies/javase/jdk11-archive-downloads.html] e (Spring Boot v2.6.2)[https://spring.io/blog/2021/12/21/spring-boot-2-6-2-available-now], implementa endpoints para o cadastro, exclusão e visualização de clientes; dando enfoque ao armazenamento do endereço e, por sua vez, da localização dos clientes supramencionados.
+Esta aplicação se trata de uma API que, utilizando [Java v11.0.16](https://www.oracle.com/br/java/technologies/javase/jdk11-archive-downloads.html) e [Spring Boot v2.6.2](https://spring.io/blog/2021/12/21/spring-boot-2-6-2-available-now), implementa endpoints para o cadastro, exclusão e visualização de clientes; dando enfoque ao armazenamento do endereço e, por sua vez, da localização dos clientes supramencionados.
 
 ## Deploy
 
